@@ -1,0 +1,16 @@
+%NIG MME
+
+%data ts is given in X
+skw=skewness(X);
+krt=kurtosis(X);
+sig2=var(X);
+
+
+
+
+
+
+
+function y=feps(epsilon)
+    
+end
